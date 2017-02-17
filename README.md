@@ -1,10 +1,10 @@
 # tictactoe
 
-FIXME: Write a one-line description of your library/project.
+Tic-tac-toe as a single-page application.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+Tic-tac-toe as a single-page application, using the Reagent library.
 
 ## Setup
 
